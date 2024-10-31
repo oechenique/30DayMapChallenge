@@ -13,7 +13,7 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - Interactive tool to discover Japanese cultural spots in your city
    - Uses Google Maps API to locate restaurants, shops, cultural centers
    - Customizable filters for different categories (food, art, entertainment)
-   - [View in Colab](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day1_points.ipynb) 
+   - [View Day 1 (Points) in Colab](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day1_points.ipynb) 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day1_points.ipynb)
 
 ### Upcoming Themes:
