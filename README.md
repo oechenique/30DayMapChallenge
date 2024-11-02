@@ -16,11 +16,18 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - [Day 1 (Points)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day1_points.ipynb) 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day1_points.ipynb)
 
+2. **Lines (Day 2)** - Mario Kart-Style Tokyo Route 🏎️
+   - Animated route inspired by Mario Kart through iconic Tokyo landmarks
+   - Utilizes Google Maps API to create an interactive route map
+   - Highlights famous spots like Tokyo Skytree, Akihabara, and Asakusa
+   - [Day 2 (Lines)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day2_lines.ipynb) 
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day2_lines.ipynb)
+
 ### Upcoming Themes:
-2. Lines
 3. Polygons
 4. Hexagons
 5. A Journey
+6. Raster
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
