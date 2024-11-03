@@ -51,6 +51,7 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
 [![GitHub Badge](https://img.shields.io/badge/-oechenique-333?style=flat&logo=github&logoColor=white&link=https://github.com/oechenique)](https://github.com/oechenique)
 [![GeoAnalytics Badge](https://img.shields.io/badge/-GeoAnalytics_Site-2ecc71?style=flat&logo=google-earth&logoColor=white&link=https://oechenique.github.io/geoanalytics/)](https://oechenique.github.io/geoanalytics/)
 [![Discord Badge](https://img.shields.io/badge/-Gastón|ガストン-5865F2?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/gastonechenique)](https://discord.com/users/gastonechenique)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rhrqmdyaig)
 
 - Star this repository for daily updates
 - Share your own versions and insights
