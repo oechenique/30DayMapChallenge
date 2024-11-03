@@ -23,11 +23,19 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - [Day 2 (Lines)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day2_lines.ipynb) 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day2_lines.ipynb)
 
+3. **Polygons (Day 3)** - Jujutsu Kaisen: Shibuya Incident Map 呪術廻戦 🏢
+   - Interactive visualization of the Shibuya Incident battleground
+   - Uses OpenStreetMap data to map real Shibuya buildings
+   - Features battle locations and key events from the anime/manga
+   - Perfect for learning polygon mapping while exploring the cursed territories
+   - [Day 3 (Polygons)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day3_polygons.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day3_polygons.ipynb)
+
 ### Upcoming Themes:
-3. Polygons
 4. Hexagons
 5. A Journey
 6. Raster
+7. Vintage style
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
