@@ -39,11 +39,20 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - [Day 4 (H3 Hexagons)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day4_hexagons.ipynb)
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day4_hexagons.ipynb)
 
+5. **A Journey (Day 5)** - Linkin Park's From Zero World Tour 2024-2025 🎸
+   - Interactive visualization of Linkin Park's new world tour routes and venues
+   - Features animated paths connecting tour locations globally
+   - Combines band history with modern mapping techniques
+   - Special tribute elements honoring Chester Bennington's legacy
+   - Integration of tour dates, venues, and band milestones
+   - [Day 5 (A Journey)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day5_ajourney.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day5_ajourney.ipynb)
+
 ### Upcoming Themes:
-5. A Journey
 6. Raster
 7. Vintage style
 8. Data: HDX
+9. AI only
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
