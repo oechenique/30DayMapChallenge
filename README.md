@@ -31,11 +31,19 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - [Day 3 (Polygons)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day3_polygons.ipynb)
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day3_polygons.ipynb)
 
+4. **H3 Hexagons (Day 4)** - Tokyo's Sakura Density Map 桜マッピング 🌸
+   - Interactive visualization of cherry blossom density using Uber's H3 system
+   - Combines Google Places API data with hexagonal spatial indexing
+   - Features real-time density analysis of sakura locations
+   - Perfect for learning H3 grid systems while exploring Tokyo's blooming landscapes 
+   - [Day 4 (H3 Hexagons)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day4_hexagons.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day4_hexagons.ipynb)
+
 ### Upcoming Themes:
-4. Hexagons
 5. A Journey
 6. Raster
 7. Vintage style
+8. Data: HDX
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
