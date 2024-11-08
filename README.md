@@ -57,11 +57,20 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - [Day 6 (Raster)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day6_raster.ipynb)
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day6_raster.ipynb)
 
+7. **Vintage Style (Day 7)** - Retro Computing Cartography 🖥️
+   - World map visualization inspired by 1960-70s computer displays
+   - Implementation of green phosphor CRT monitor aesthetic
+   - Natural Earth data rendered with custom ASCII-style effects
+   - Inclusion of vintage computer elements like scan lines and screen glow
+   - Special focus on Tokyo's coordinates with retro computing display format
+   - [Day 7 (Vintage)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day7_vintage.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day7_vintage.ipynb)
+
 ### Upcoming Themes:
-7. Vintage style
 8. Data: HDX
 9. AI only
 10. Pen & Paper
+11. Arctic
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
