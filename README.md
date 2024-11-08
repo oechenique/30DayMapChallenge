@@ -48,11 +48,20 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - [Day 5 (A Journey)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day5_ajourney.ipynb)
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day5_ajourney.ipynb)
 
+6. **Raster (Day 6)** - Exploring Mount Fuji's Elevation 🗻
+   - Digital Elevation Model (DEM) analysis of Japan's iconic Mount Fuji
+   - 3D visualization combining USGS elevation data with satellite imagery
+   - Integration of cloud-free satellite data (<5% coverage) via STAC
+   - Custom height-based color gradients for terrain visualization
+   - Real-world example of persistence in data processing challenges
+   - [Day 6 (Raster)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day6_raster.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day6_raster.ipynb)
+
 ### Upcoming Themes:
-6. Raster
 7. Vintage style
 8. Data: HDX
 9. AI only
+10. Pen & Paper
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
