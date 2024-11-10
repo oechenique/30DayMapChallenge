@@ -66,11 +66,20 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - [Day 7 (Vintage)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day7_vintage.ipynb)
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day7_vintage.ipynb)
 
+8. **Humanitarian Data Exchange (Day 8)** - Noto Earthquake Analysis 🌍
+   - Interactive visualization of the 2024 Noto Peninsula Earthquake impact
+   - Integration of Google Building Footprints data for infrastructure analysis
+   - Custom dashboard implementation combining Folium map with real-time metrics
+   - Heat map visualization of earthquake intensity zones
+   - Building density analysis in affected areas
+   - [Day 8 (HDX)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day8_hdx.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day8_hdx.ipynb)
+
 ### Upcoming Themes:
-8. Data: HDX
 9. AI only
 10. Pen & Paper
 11. Arctic
+12. Time and space
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
