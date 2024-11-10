@@ -75,11 +75,20 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - [Day 8 (HDX)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day8_hdx.ipynb)
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day8_hdx.ipynb)
 
+9. **AI Only (Day 9)**
+   * AI-Powered Map Generation Studio 🤖
+      * Custom notebook for generating map-focused AI prompts without API dependencies
+      * Integration with Hugging Face's local models for prompt engineering
+      * Interactive Gradio interface for map style customization
+      * Specialized templates for fantasy, vintage, and modern cartographic styles
+      * Generated example using Midjourney for artistic map interpretation
+      * [Day 9 (AI Only)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day9_ai.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lOkWRKsapCA8lWVa4vRx7WC4NEWnasN5)
+
 ### Upcoming Themes:
-9. AI only
 10. Pen & Paper
 11. Arctic
 12. Time and space
+13. A new tool	
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
