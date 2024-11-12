@@ -1,0 +1,77 @@
+country,name,latitude,longitude,facility
+Argentina,Belgrano II,77°52’26”S,34°37’40”W,year-round
+Argentina,Brown,64°53’43”S,62°52’13”W,seasonal
+Argentina,Camara,62°35’38”S,59°55’09”W,seasonal
+Argentina,Carlini,62°14’27”S,58°40’01”W,year-round
+Argentina,Decepcion,62°58’36”S,60°42’02”W,seasonal
+Argentina,Esperanza,63°23’50”S,56°59’54”W,year-round
+Argentina,Marambio,64°14’50”S,56°37’39”W,year-round
+Argentina,Matienzo,64°58’55”S,60°04’25”W,seasonal
+Argentina,Melchior,64°19’54”S,62°58’58”W,seasonal
+Argentina,Orcadas,60°44’25”S,"44°44’24""W",year-round
+Argentina,Petrel,63°28’42”S,56°13’57”W,seasonal
+Argentina,Primavera,64°09’35”S,60°57’25”W,seasonal
+Argentina,San Martin,68°07’47”S,67°06’10”W,year-round
+Australia,Casey,66°16’54’’S,110°31’39’’E,year-round
+Australia,Davis,"68°34’36""S",77°58’02’’E,year-round
+Australia,Mawson,67°36’10’’S,62°52’28’’E,year-round
+Belgium,Princess Elisabeth,71°56‘59‘‘S,23°20’49’’E,seasonal
+Brazil,Ferraz,62°05’08’’S,58°23’55’’W,year-round
+Bulgaria,St. Kliment Ohridski,"62°38’26""S",60°21’55’’W,seasonal
+Chile,Carvajal,67°45’38”S,68°54’53’’W,seasonal
+Chile,Dr. Guillermo Mann,62°27’00’’S,60°47’00’’W,seasonal
+Chile,Frei,62°12’00”S,58°57’48”W,year-round
+Chile,Gabriel Gonzalez Videla,64°49’25”S,62°51’26”W,seasonal
+Chile,O’Higgins,63°19’15”S,57°53’59”W,year-round
+Chile,Prat,62°28’43”S,59°39’48”W,year-round
+Chile,Professor Julio Escudero,62°12’57’’S,58°57’35’’W,seasonal
+Chile,Risopatron,62°22’17”S,59°42’53”W,seasonal
+Chile,Yelcho,64°52’55’’S,63°35’03’’W,seasonal
+China,Great Wall,62°13'03’’S,58°57 ’43’’W,year-round
+China,Kunlun,80°25’02’’S,77°06’58’’E,seasonal
+China,Taishan,73°51’50’’S,76°58’27’’E,seasonal
+China,Zhongshan,69°22’24’’S,76°22’40’’E,year-round
+Czech Republic,Johann Gregor Mendel,63°48’02’S,57°52’57’’W,seasonal
+Ecuador,Pedro Vicente Maldonado,62°26’57’’S,59°44’27’’W,seasonal
+Finland,Aboa,73°03’00’’S,13°25’00’’W,seasonal
+France / Italy,Concordia,75°05’59’’S,123°19’57’’E,year-round
+France,Dumont d’Urville,66°39’77’’S,140°00‘08’’E,year-round
+Germany,Dallmann Laboratory,62°14’26’’S,58°40’00’’W,seasonal
+Germany,Kohnen,75°00’06’’S,00°04’04’’E,seasonal
+Germany,Neumayer III,70°41’00’’S,08°16’00’’W,year-round
+India,Bharati,69°24’24’’S,76°11’43’’E,year-round
+India,Maitri,70°46’00’’S,11°43’51’’E,year-round
+Italy,Mario Zucchelli,74°41’42’’S,164°07’23’’E,seasonal
+Japan,Syowa,69°00‘25’’S,39°35’01’’E,year-round
+Netherlands,Dirck Gerritsz Laboratory,67°34’07’S,68°07'28’’W,year-round
+New Zealand,Scott Base,77°50’58’’S,166°46’02’’E,year-round
+Norway,Troll,72°00’43’’S,02°31’59’’E,year-round
+Peru,Machu Picchu,62°05’49’’S,58°28’23’’W,seasonal
+Poland,Henryk Arctowski,69°09’35’’S,58°28’24’’W,year-round
+Republic of Belarus,Mountain Evening/Vechernyaya,67°39’35’’S,46°09’18’’E,seasonal
+Republic of Korea,Jang Bogo,74°37’38’’S,164°14’16’’E,year-round
+Republic of Korea,King Sejong,62°13’39’’S,58°47’19’’W,year-round
+Russia,Bellingshausen,62°12’00’’S,58°58’00’’W,year-round
+Russia,Druzhnaya IV,69°44’00’’S,73°43’00’’E,seasonal
+Russia,Leningradskaya,69°30’00’’S,159°23’00’’E,seasonal
+Russia,Mirny,66°31’00’’S,93°01’00’’E,year-round
+Russia,Molodezhnaya,67°40’00’’S,45°51’00’’E,seasonal
+Russia,Novolazarevskaya,70°46’00’’S,11°50’00’’E,year-round
+Russia,Oazis,66°16’00’’S,100°44’00’’E,seasonal
+Russia,Progress,69°23’00’’S,76°23’00’’E,year-round
+Russia,Russkaya,74°45’00’’S,136°40’00’’W,seasonal
+Russia,Vostok,78°28’00’’S,106°48’00’’E,year-round
+South Africa,SANAE IV,71°40’37’’S,02°50’42’’W,year-round
+Spain,Gabriel de Castilla,62°58’40’’S,60°00’30’’W,seasonal
+Spain,International Field Camp Peninsula Byers,62°39’49’’S,61°05’59’’W,seasonal
+Spain,Juan Carlos I,62°39’48’’S,60°23’17’’W,seasonal
+Sweden,Wasa,73°03’00’’S,13°25’00’’W,seasonal
+Ukraine,Vernadsky,65°14’44’’S,64°15’27’’W,year-round
+United Kingdom,Halley VI,75°34’25’’S,25°28’01’’W,year-round
+United Kingdom,Rothera,67°34’00’’S,68°07’59’’W,year-round
+United Kingdom,Signy,60°42’30’’S,45°35’43’’W,seasonal
+United States,Amundsen-Scott South Pole,90°S,0°E,year-round
+United States,McMurdo,77°50’53’’S,166°40’06’’E,year-round
+United States,Palmer,64°46’45’’S,64°03’20’’W,year-round
+Uruguay,Artigas,62°11’07’’S,"58°54’14""W",year-round
+Uruguay,Ruperto Elichiribehety,"63°24’14""S",59°59’45’’W,seasonal
