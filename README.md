@@ -92,6 +92,15 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
 - Exploration of Antarctic wonders and safety considerations
 - [Day 11 (Unveiling the Frozen Continent)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day11_antarctic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day11_antarctic.ipynb)
 
+12. **Time & Space (Day 12)**
+   * Fukushima Disaster Timeline Analysis ⏳🗾
+      * Custom Google Earth Engine workflow for temporal analysis of Fukushima region (2010-2023)
+      * Time series visualization using satellite imagery pre and post-disaster
+      * Integration with Earth Engine's Python API for environmental change detection
+      * Interactive analysis of reconstruction efforts and recovery zones
+      * Respectful approach to historical documentation with bilingual annotations
+      * [Day 12 (Time & Space)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day12_timespace.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day12_timespace.ipynb)
+
 ### Upcoming Themes:
 12. Time and space
 13. A new tool
