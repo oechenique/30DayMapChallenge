@@ -83,8 +83,6 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
       - Generated example using Midjourney for artistic map interpretation
       - [Day 9 (AI Only)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day9_ai.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day9_ai.ipynb)
 
-Claro, aquí está el formato en Markdown:
-
 11. **Unveiling the Frozen Continent (Day 11)** - Mapping Antarctica's Research Stations 🇦🇶
 - Understanding Antarctica's unique landscape and the Antarctic Treaty System  
 - Mapping the distribution of permanent and seasonal research stations across Antarctica
