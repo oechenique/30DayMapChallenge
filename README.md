@@ -76,36 +76,35 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day8_hdx.ipynb)
 
 9. **AI Only (Day 9)** - AI-Powered Map Generation Studio 🤖
-      - Custom notebook for generating map-focused AI prompts without API dependencies
-      - Integration with Hugging Face's local models for prompt engineering
-      - Interactive Gradio interface for map style customization
-      - Specialized templates for fantasy, vintage, and modern cartographic styles
-      - Generated example using Midjourney for artistic map interpretation
-      - [Day 9 (AI Only)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day9_ai.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day9_ai.ipynb)
+   - Custom notebook for generating map-focused AI prompts without API dependencies
+   - Integration with Hugging Face's local models for prompt engineering
+   - Interactive Gradio interface for map style customization
+   - Specialized templates for fantasy, vintage, and modern cartographic styles
+   - Generated example using Midjourney for artistic map interpretation
+   - [Day 9 (AI Only)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day9_ai.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day9_ai.ipynb)
 
 11. **Unveiling the Frozen Continent (Day 11)** - Mapping Antarctica's Research Stations 🇦🇶
-- Understanding Antarctica's unique landscape and the Antarctic Treaty System  
-- Mapping the distribution of permanent and seasonal research stations across Antarctica
-- Data preparation and processing using Python and Pandas
-- Creating an interactive Folium map with marker clusters for research stations
-- Highlighting the importance of the Nippon Foundation and GEBCO in mapping Antarctica
-- Exploration of Antarctic wonders and safety considerations
-- [Day 11 (Unveiling the Frozen Continent)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day11_antarctic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day11_antarctic.ipynb)
+   - Understanding Antarctica's unique landscape and the Antarctic Treaty System  
+   - Mapping the distribution of permanent and seasonal research stations across Antarctica
+   - Data preparation and processing using Python and Pandas
+   - Creating an interactive Folium map with marker clusters for research stations
+   - Highlighting the importance of the Nippon Foundation and GEBCO in mapping Antarctica
+   - Exploration of Antarctic wonders and safety considerations
+   - [Day 11 (Unveiling the Frozen Continent)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day11_antarctic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day11_antarctic.ipynb)
 
-12. **Time & Space (Day 12)**
-   * Fukushima Disaster Timeline Analysis ⏳🗾
-      * Custom Google Earth Engine workflow for temporal analysis of Fukushima region (2010-2023)
-      * Time series visualization using satellite imagery pre and post-disaster
-      * Integration with Earth Engine's Python API for environmental change detection
-      * Interactive analysis of reconstruction efforts and recovery zones
-      * Respectful approach to historical documentation with bilingual annotations
-      * [Day 12 (Time & Space)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day12_timespace.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day12_timespace.ipynb)
+12. **Time & Space (Day 12)** - Fukushima Disaster Timeline Analysis ⏳🗾
+   - Custom Google Earth Engine workflow for temporal analysis of Fukushima region (2010-2023)
+   - Time series visualization using satellite imagery pre and post-disaster
+   - Integration with Earth Engine's Python API for environmental change detection
+   - Interactive analysis of reconstruction efforts and recovery zones
+   - Respectful approach to historical documentation with bilingual annotations
+   - [Day 12 (Time & Space)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day12_timespace.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day12_timespace.ipynb)
 
 ### Upcoming Themes:
-12. Time and space
 13. A new tool
 14. A world map
 15. My data
+16. Choropleth
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
