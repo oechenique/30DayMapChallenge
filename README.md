@@ -82,7 +82,7 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - Specialized templates for fantasy, vintage, and modern cartographic styles
    - Generated example using Midjourney for artistic map interpretation
    - [Day 9 (AI Only)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day9_ai.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day9_ai.ipynb)
-
+     
 10. **Unveiling the Frozen Continent (Day 11)** - Mapping Antarctica's Research Stations 🇦🇶
    - Understanding Antarctica's unique landscape and the Antarctic Treaty System  
    - Mapping the distribution of permanent and seasonal research stations across Antarctica
@@ -91,7 +91,7 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - Highlighting the importance of the Nippon Foundation and GEBCO in mapping Antarctica
    - Exploration of Antarctic wonders and safety considerations
    - [Day 11 (Unveiling the Frozen Continent)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day11_antarctic.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day11_antarctic.ipynb)
-
+     
 11. **Time & Space (Day 12)** - Fukushima Disaster Timeline Analysis ⏳🗾
    - Custom Google Earth Engine workflow for temporal analysis of Fukushima region (2010-2023)
    - Time series visualization using satellite imagery pre and post-disaster
