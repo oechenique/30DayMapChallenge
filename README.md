@@ -110,10 +110,10 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
 
 
 ### Upcoming Themes:
-13. A new tool
 14. A world map
 15. My data
 16. Choropleth
+17. Collaborative map
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
