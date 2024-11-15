@@ -100,6 +100,15 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - Respectful approach to historical documentation with bilingual annotations
    - [Day 12 (Time & Space)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day12_timespace.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day12_timespace.ipynb)
 
+12. **A New Tool (Day 13)** - Okinawa Climate Visualization 🌦️🌀
+   - Interactive map showcasing temperature gradients and wind dynamics in Okinawa
+   - First-time integration of real-time weather data from OpenWeatherMap API
+   - Folium-based visualization with heatmaps and custom wind arrow styling
+   - Highlighting Okinawa's unique subtropical climate and historical context
+   - Bilingual annotations to connect geography, culture, and weather
+   - [Day 13 (A New Tool)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day13_newtool.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day13_newtool.ipynb)
+
+
 ### Upcoming Themes:
 13. A new tool
 14. A world map
