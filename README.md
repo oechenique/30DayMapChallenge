@@ -116,6 +116,14 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
     - Comprehensive visualization of global tectonic dynamics and volcanic patterns
     - [Day 14 (A World Map)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day14_worldmap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day14_worldmap.ipynb)
 
+14. **My Data (Day 15)** - ARA Libertad: 2009 Training Voyage Journey ⛵🌎
+    - Personal mapping of my Naval Academy training voyage aboard the ARA Libertad tall ship
+    - Interactive visualization of the 2009 route with key port stops and maritime experiences
+    - Integration of naval training aspects and cultural exchange points
+    - Custom markers highlighting significant moments and achievements during the voyage
+    - Comprehensive display of maritime navigation paths and training exercises
+    - [Day 15 (My Data)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day15_mydata.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day15_mydata.ipynb)
+
 ### Upcoming Themes:
 15. My data
 16. Choropleth
