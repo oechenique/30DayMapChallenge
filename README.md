@@ -108,12 +108,19 @@ One map. Every day. November 2024. Following the official #30DayMapChallenge the
    - Bilingual annotations to connect geography, culture, and weather
    - [Day 13 (A New Tool)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day13_newtool.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day13_newtool.ipynb)
 
+13. **A World Map (Day 14)** - Earth's Dynamic Dance: Tectonic Plates & Volcanic Activity 🌍🌋
+    - Global visualization integrating GEBCO ocean bathymetry with tectonic and volcanic data
+    - Dual-layer volcanic activity mapping from Smithsonian Institution (Holocene and Pleistocene)
+    - Interactive Folium-based map showcasing Earth's "Ring of Fire" and plate boundaries
+    - Temporal analysis spanning from recent to 2.58 million years ago
+    - Comprehensive visualization of global tectonic dynamics and volcanic patterns
+    - [Day 14 (A World Map)](https://github.com/oechenique/30DayMapChallenge/blob/main/Notebooks/day14_worldmap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/30DayMapChallenge/blob/main/Notebooks/day14_worldmap.ipynb)
 
 ### Upcoming Themes:
-14. A world map
 15. My data
 16. Choropleth
 17. Collaborative map
+18. 3D
 [... and more coming soon!]
 
 ## 🛠️ Tools & Technologies
